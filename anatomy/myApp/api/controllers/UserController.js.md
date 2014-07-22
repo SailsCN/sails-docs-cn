@@ -1,5 +1,5 @@
 # myApp/api/controllers/UserController.js
-### 简介
+### 作用
 
 只要通过执行'sails generate api User'命令，就可以生成UserController这个文件； 这个文件中包含的是与User这个model相对应的controller的逻辑代码。
 
